@@ -1,0 +1,79 @@
+[
+  {
+    "id": "b63f5ded-1db5-4066-8fe7-f4c3d9a25ba1",
+    "question": "What is the primary purpose of the JERKIN jacket?",
+    "answer": "The JERKIN is a premium winter jacket engineered specifically to provide lightweight warmth, wind defense, and comfortable protection during cold weather and daily winter wear.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825456"
+  },
+  {
+    "id": "ffec7d6d-8f64-44df-bc23-5e265b29f3b3",
+    "question": "Is the JERKIN suitable for winter?",
+    "answer": "Yes. The JERKIN is specially designed for winter conditions, featuring thermal insulation and wind-resistant outer fabric to keep you warm and comfortable in cold environments.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825517"
+  },
+  {
+    "id": "1927624d-9ba9-420f-8e2e-0e9c68c53c6f",
+    "question": "How warm is the JERKIN jacket?",
+    "answer": "The JERKIN delivers excellent thermal insulation suitable for moderate to sub-freezing temperatures, combining a high-density fleece interior lining with a windproof exterior shell.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825528"
+  },
+  {
+    "id": "59cdf1bf-71d3-43bf-a748-a2d7cb02d668",
+    "question": "What materials are used to make the JERKIN?",
+    "answer": "The JERKIN is constructed from a durable, high-grade polyester outer shell with a water-resistant coating, lined with ultra-soft plush thermal fleece on the inside.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825535"
+  },
+  {
+    "id": "952523d9-4435-49c9-8fc1-eef35d84c90a",
+    "question": "Does the JERKIN have a fleece lining?",
+    "answer": "Yes. The interior of the JERKIN features a soft, plush thermal fleece lining that traps body heat while remaining breathable and comfortable.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825544"
+  },
+  {
+    "id": "2731aa8f-ea59-4d54-bcad-63d2cb86ce62",
+    "question": "Can I wear the JERKIN in extreme cold weather conditions?",
+    "answer": "Yes. The JERKIN is built for cold-weather protection. For freezing or sub-zero conditions, it pairs exceptionally well with a thermal base layer or sweater underneath.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825553"
+  },
+  {
+    "id": "6017b96c-0072-425f-8359-e072b0dde37f",
+    "question": "Is the JERKIN completely waterproof?",
+    "answer": "The JERKIN is water-resistant (DWR coated), meaning it repels light snow, drizzle, and damp conditions. However, it is not a heavy-duty waterproof raincoat for torrential downpours.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825560"
+  },
+  {
+    "id": "07ef0ed6-1a72-4376-94af-e644e46043a3",
+    "question": "Can I wear the JERKIN in light rain or snowfall?",
+    "answer": "Yes. The JERKIN's water-repellent shell effortlessly handles light rain, drizzle, and snow, keeping moisture from soaking into the inner fleece.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825571"
+  },
+  {
+    "id": "5403d528-7736-4071-978c-51e9268aaa12",
+    "question": "Does the JERKIN offer protection against cold winds?",
+    "answer": "Yes. The outer shell is engineered as a high-density windbreaker barrier that prevents cold breezes and wind chills from penetrating the garment.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825581"
+  },
+  {
+    "id": "db53f018-e912-4561-8d75-f63b7ab02b39",
+    "question": "Is the JERKIN comfortable for all-day wear?",
+    "answer": "Yes. The JERKIN is ergonomically tailored with breathable insulation and flexible stitching, ensuring freedom of movement and cozy comfort all day long.",
+    "category": "jerkin",
+    "created_at": "2026-09-11T11:41:03.825589"
+  },
+  {
+    "id": "c803bfa2-93ec-46c3-84ee-905772410033",
+    "question": "how are you",
+    "answer": "fine",
+    "category": "EmptyFolder",
+    "created_at": "2026-09-11T11:41:39.896691"
+  }
+]
